@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Breadcrumb"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="071cbaef-2d2a-4f4a-bd74-cebfc9de7a8a"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
